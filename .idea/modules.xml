@@ -9,7 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/extensions/freebase/grefine-freebase.iml" filepath="$PROJECT_DIR$/extensions/freebase/grefine-freebase.iml" />
       <module fileurl="file://$PROJECT_DIR$/extensions/gdata/grefine-gdata-extension.iml" filepath="$PROJECT_DIR$/extensions/gdata/grefine-gdata-extension.iml" />
       <module fileurl="file://$PROJECT_DIR$/extensions/jython/grefine-jython.iml" filepath="$PROJECT_DIR$/extensions/jython/grefine-jython.iml" />
-      <module fileurl="file://$PROJECT_DIR$/extensions/grefine-rdf-extension/grefine-rdf-extension.iml" filepath="$PROJECT_DIR$/extensions/grefine-rdf-extension/grefine-rdf-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/rdf-extension/grefine-rdf-extension.iml" filepath="$PROJECT_DIR$/extensions/rdf-extension/grefine-rdf-extension.iml" />
       <module fileurl="file://$PROJECT_DIR$/extensions/sample/grefine-sample-extension.iml" filepath="$PROJECT_DIR$/extensions/sample/grefine-sample-extension.iml" />
       <module fileurl="file://$PROJECT_DIR$/server/grefine-server.iml" filepath="$PROJECT_DIR$/server/grefine-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/extensions/pc-axis/refine-pd-extension.iml" filepath="$PROJECT_DIR$/extensions/pc-axis/refine-pd-extension.iml" />
