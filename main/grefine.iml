@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://webapp/WEB-INF/lib/butterfly-trunk.jar" />
+    <libelement value="file://webapp/WEB-INF/lib/commons-codec-1.5.jar" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/commons-lang-2.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/commons-fileupload-1.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/json-20100208.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/icu4j-4.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/arithcode-1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/secondstring-20100303.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/ant-tools-1.8.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/vicino-1.1.jar!/" />
+    <libelement value="file://webapp/WEB-INF/lib/opencsv-2.2.jar" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/jcl-over-slf4j-1.5.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/slf4j-api-1.5.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/slf4j-log4j12-1.5.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/log4j-1.2.15.jar!/" />
+    <libelement value="file://webapp/WEB-INF/lib/poi-3.7-20101029.jar" />
+    <libelement value="file://webapp/WEB-INF/lib/poi-ooxml-3.7-20101029.jar" />
+    <libelement value="file://webapp/WEB-INF/lib/poi-ooxml-schemas-3.7-20101029.jar" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/xmlbeans-2.3.0.jar!/" />
+    <libelement value="file://webapp/WEB-INF/lib/clojure-1.4.0.jar" />
+    <libelement value="file://webapp/WEB-INF/lib/jackson-core-asl-1.5.1.jar" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/marc4j-2.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/jrdf-0.5.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/commons-collections-3.2.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/commons-io-1.4.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/rhino-1.7R2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/velocity-1.5.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/lessen-trunk-r8.jar!/" />
+    <libelement value="file://tests/server/lib/mockito-all-1.8.4.jar" />
+    <libelement value="file://tests/server/lib/testng-5.12.1.jar" />
+    <libelement value="jar://$MODULE_DIR$/../server/lib/servlet-api-2.5.jar!/" />
+    <libelement value="file://webapp/WEB-INF/lib/httpclient-4.0.1.jar" />
+    <libelement value="file://webapp/WEB-INF/lib/httpcore-4.0.1.jar" />
+    <libelement value="file://webapp/WEB-INF/lib/signpost-commonshttp4-1.2.1.1.jar" />
+    <libelement value="file://webapp/WEB-INF/lib/signpost-core-1.2.1.1.jar" />
+    <libelement value="jar://$MODULE_DIR$/webapp/WEB-INF/lib/jsoup-1.4.1.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+      <src_folder value="file://$MODULE_DIR$/tests/server/src" expected_position="1" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/webapp/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/webapp" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="google-app-engine" name="Google App Engine">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/webapp/WEB-INF/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests/server/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library name="butterfly-trunk.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/butterfly-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/butterfly-1.0.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/commons-codec-1.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/commons-codec-1.5-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang-2.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/commons-lang-2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/commons-lang-2.5-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-fileupload-1.2.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/commons-fileupload-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/commons-fileupload-1.2.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="json-20100208.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/json-20100208.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/json-20100208-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="icu4j-4.2.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/icu4j-4.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/icu4j-4.2.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="arithcode-1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/arithcode-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/arithcode-1.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="secondstring-20100303.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/secondstring-20100303.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/secondstring-20100303-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ant-tools-1.8.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/ant-tools-1.8.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/ant-tools-1.8.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="vicino-1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/vicino-1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/vicino-1.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="opencsv-2.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/opencsv-2.4-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/opencsv-2.4-SNAPSHOT-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jcl-over-slf4j-1.5.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/jcl-over-slf4j-1.5.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/jcl-over-slf4j-1.5.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="slf4j-api-1.5.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/slf4j-api-1.5.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/slf4j-api-1.5.6.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="slf4j-log4j12-1.5.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/slf4j-log4j12-1.5.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/slf4j-log4j12-1.5.6-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="log4j-1.2.15.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/log4j-1.2.15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/log4j-1.2.15-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-3.7-20101029.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/poi-3.8-20120326.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/poi-src-3.8.jar!/java" />
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/poi-src-3.8.jar!/ooxml/java" />
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/poi-src-3.8.jar!/excelant/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-3.7-20101029.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/poi-ooxml-3.8-20120326.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="poi-ooxml-schemas-3.7-20101029.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/poi-ooxml-schemas-3.8-20120326.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="dom4j-1.6.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="xmlbeans-2.3.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/xmlbeans-2.3.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="clojure-1.4.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/clojure-1.5.1-slim.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jackson-core-asl-1.5.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/jackson-core-asl-1.9.12.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="marc4j-2.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/marc4j-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jrdf-0.5.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/jrdf-0.5.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-3.2.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/commons-collections-3.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-1.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/commons-io-1.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="rhino-1.7R2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/rhino-1.7R2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="velocity-1.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/velocity-1.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lessen-trunk-r8.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/lessen-trunk-r8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mockito-all-1.8.4.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/tests/server/lib/mockito-all-1.9.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/tests/server/lib/mockito-all-1.9.5.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="testng-5.12.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/tests/server/lib/testng-6.8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/tests/server/lib-src/testng-5.12.1-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="servlet-api-2.5.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../server/lib/servlet-api-2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../server/lib-src/servlet-api-2.5-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpclient-4.0.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/httpclient-4.2.5.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="httpcore-4.0.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/httpcore-4.2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/httpcore-4.1.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="signpost-commonshttp4-1.2.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/signpost-commonshttp4-1.2.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="signpost-core-1.2.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/signpost-core-1.2.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jsoup-1.4.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/jsoup-1.4.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/odfdom-java-0.8.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib-src/odfdom-java-0.8.7-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/webapp/WEB-INF/lib/guava-13.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+

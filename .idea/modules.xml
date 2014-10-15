@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenRefine.iml" filepath="$PROJECT_DIR$/OpenRefine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/grefine.iml" filepath="$PROJECT_DIR$/main/grefine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broker/appengine/grefine-appengine-broker.iml" filepath="$PROJECT_DIR$/broker/appengine/grefine-appengine-broker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broker/core/grefine-broker.iml" filepath="$PROJECT_DIR$/broker/core/grefine-broker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/freebase/grefine-freebase.iml" filepath="$PROJECT_DIR$/extensions/freebase/grefine-freebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/gdata/grefine-gdata-extension.iml" filepath="$PROJECT_DIR$/extensions/gdata/grefine-gdata-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/jython/grefine-jython.iml" filepath="$PROJECT_DIR$/extensions/jython/grefine-jython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/grefine-rdf-extension/grefine-rdf-extension.iml" filepath="$PROJECT_DIR$/extensions/grefine-rdf-extension/grefine-rdf-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/sample/grefine-sample-extension.iml" filepath="$PROJECT_DIR$/extensions/sample/grefine-sample-extension.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/grefine-server.iml" filepath="$PROJECT_DIR$/server/grefine-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extensions/pc-axis/refine-pd-extension.iml" filepath="$PROJECT_DIR$/extensions/pc-axis/refine-pd-extension.iml" />
+    </modules>
+  </component>
+</project>
+
