@@ -2,449 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b92d4343-d9b9-443e-af90-a7f4d7d0df81" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/README.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/build.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/grefine-rdf-extension.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/licenses/sesame.LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/controller.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/apache-any23-api-0.8.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/apache-any23-core-0.8.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/apache-any23-encoding-0.8.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/apache-any23-mime-0.8.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/apache-mime4j-core-0.7.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/apache-mime4j-dom-0.7.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/commons-codec-1.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/commons-httpclient-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/commons-io-2.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/commons-logging-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/guava-r07.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/htmlparser-1.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/jackson-core-asl-1.9.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/jackson-mapper-asl-1.9.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/java-rdfa-0.4.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/jcl-over-slf4j-1.6.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/jena-arq-2.11.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/jena-core-2.11.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/jena-iri-1.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/jena-sdb-1.4.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/jena-tdb-1.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/jena-text-1.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/lucene-analyzers-common-4.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/lucene-core-4.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/lucene-queryparser-4.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/nekohtml-1.9.14.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-http-client-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-http-protocol-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-model-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-query-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-queryalgebra-evaluation-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-queryalgebra-model-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-queryparser-api-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-queryparser-serql-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-queryparser-sparql-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-queryresultio-api-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-queryresultio-sparqlxml-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-repository-api-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-repository-sail-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-repository-sparql-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-rio-api-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-rio-datatypes-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-rio-languages-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-rio-n3-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-rio-ntriples-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-rio-rdfxml-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-rio-trix-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-rio-turtle-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-sail-api-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-sail-inferencer-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-sail-memory-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/sesame-util-2.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/simmetrics_jar_v1_6_2_d07_02_07.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/slf4j-api-1.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/slf4j-log4j12-1.7.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/solr-solrj-4.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/tika-core-1.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/tika-parsers-1.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/module.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/configure.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/delete.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/delete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/import.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/information.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/no.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/questionMarkIcon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/questionMarkIcon2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/refresh.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/spinner.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/stanbol.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/images/yes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/externals/jquery.form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/menu-bar-extensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/new-prefix-widget.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/rdf-data-table-view.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/rdf-schema-alignment-ui-link.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/rdf-schema-alignment-ui-node.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/rdf-schema-alignment.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/rdf-schema-manage-vocabs-widget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/rdf-schema-new-prefix-widget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/rdf-schema-vocabulary-manager.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/rdf-service-dialog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/sindice/sindice-dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/sparql-service-dialog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/stanbol-service.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/scripts/suggestterm.suggest.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/styles/flyout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/styles/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/styles/rdf-reconcile-service.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/styles/rdf-schema-alignment-dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/styles/sindice/recon-dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/resources/files/prefixes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/resources/files/preview_properties.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/resources/templates/property_preview.vt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/resources/templates/resource_preview.vt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/resources/templates/resource_preview_template.vt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/resources/templates/type_preview.vt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/CellBlankNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/CellLiteralNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/CellNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/CellResourceNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/ConstantBlankNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/ConstantLiteralNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/ConstantResourceNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/Link.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/Node.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/Prefix.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/RdfSchema.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/ResourceNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/Util.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/app/ApplicationContext.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/app/InitilizationCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/commands/AddPrefixCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/commands/AddPrefixFromFileCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/commands/GetDefaultPrefixesCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/commands/PreviewRdfCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/commands/PreviewRdfValueExpressionCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/commands/RdfCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/commands/RefreshPrefixCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/commands/RemovePrefixCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/commands/SaveBaseURICommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/commands/SavePrefixesCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/commands/SaveRdfSchemaCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/commands/SuggestPrefixUriCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/commands/SuggestTermCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/exporters/RdfExporter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/expr/RdfBinder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/expr/functions/strings/.svn/all-wcprops" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/expr/functions/strings/.svn/entries" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/expr/functions/strings/.svn/text-base/Urlify.java.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/expr/functions/strings/Urlify.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/expr/util/RdfExpressionUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/operations/SaveRdfSchemaOperation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/utils/HttpUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/IPredefinedVocabularyManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/IVocabularySearcher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/PrefixExistException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/PrefixManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/RDFNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/RDFSClass.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/RDFSProperty.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/SearchResultItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/Vocabulary.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/VocabularyImportException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/VocabularyImporter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/VocabularyIndexException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/VocabularySaveException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/imp/PredefinedVocabularyManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/imp/VocabularySearcher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/imp/predefined_vocabs.tsv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/rdf/vocab/imp/prefixes.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/GRefineServiceManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/ServiceRegistry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/commands/AbstractAddServiceCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/commands/AddServiceCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/commands/AddSindiceService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/commands/AddStanbolServiceCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/commands/InitializationCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/commands/InitializeServicesCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/commands/SindiceGuessTypeCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/commands/UploadFileAndAddServiceCommand.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/model/AbstractReconciliationService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/model/ReconciliationCandidate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/model/ReconciliationRequest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/model/ReconciliationRequestContext.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/model/ReconciliationResponse.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/model/ReconciliationService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/model/ReconciliationStanbolSite.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/model/SearchResultItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/RdfReconciliationService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/endpoints/PlainSparqlQueryEndpoint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/endpoints/QueryEndpoint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/endpoints/QueryEndpointFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/endpoints/QueryEndpointImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/executors/DumpQueryExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/executors/QueryExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/executors/RemoteQueryExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/executors/VirtuosoRemoteQueryExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/factories/AbstractSparqlQueryFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/factories/BigOwlImSparqlQueryFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/factories/JenaTextSparqlQueryFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/factories/PlainSparqlQueryFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/factories/PreviewResourceCannedQuery.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/factories/SparqlQueryFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/factories/VirtuosoSparqlQueryFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/rdf/factories/files/preview_properties.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/sindice/SindiceBroker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/sindice/SindiceQueryEndpoint.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/sindice/SindiceReconciliationCandidate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/sindice/SindiceService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/util/GRefineJsonUtilities.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/util/GRefineJsonUtilitiesImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/util/PrefixManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/util/RdfUtilities.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/util/RdfUtilitiesImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/util/ResultSetWrappingUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/src/org/deri/grefine/reconcile/util/StringUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-libs/jackson-core-asl-1.5.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-libs/jackson-mapper-asl-1.5.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-libs/org.springframework.core-3.0.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-libs/org.springframework.test-3.0.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/Regression1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/Regression1.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/Regression1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/Suite1/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/emailable-report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/classes.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/classes.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.test.org.deri.reconcile.factories.BigOwlImSparqlQueryFactoryTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.test.org.deri.reconcile.factories.BigOwlImSparqlQueryFactoryTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.test.org.deri.reconcile.factories.BigOwlImSparqlQueryFactoryTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.test.org.deri.reconcile.sindice.DeleteMe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.test.org.deri.reconcile.sindice.DeleteMe.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.test.org.deri.reconcile.sindice.DeleteMe.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.test.org.deri.reconcile.sindice.SindiceServiceTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.test.org.deri.reconcile.sindice.SindiceServiceTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.test.org.deri.reconcile.sindice.SindiceServiceTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.test.rdf.vocab.AddPrefixTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.test.rdf.vocab.AddPrefixTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.test.rdf.vocab.AddPrefixTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.RdfSchemaSerializationTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.RdfSchemaSerializationTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.RdfSchemaSerializationTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.RdfSchemaTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.RdfSchemaTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.RdfSchemaTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.exporters.RdfExporterFacultyDataTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.exporters.RdfExporterFacultyDataTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.exporters.RdfExporterFacultyDataTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.exporters.RdfExporterMultiRootNodesTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.exporters.RdfExporterMultiRootNodesTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.exporters.RdfExporterMultiRootNodesTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.exporters.RdfExporterPaymentDataTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.exporters.RdfExporterPaymentDataTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.exporters.RdfExporterPaymentDataTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.exporters.RdfExporterTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.exporters.RdfExporterTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/com.google.refine.tests.rdf.exporters.RdfExporterTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/grefine-rdf-extension/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/com.google.refine.tests.rdf.exporters.RdfExporterFacultyDataTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/com.google.refine.tests.rdf.exporters.RdfExporterFacultyDataTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/com.google.refine.tests.rdf.exporters.RdfExporterFacultyDataTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/com.google.refine.tests.rdf.exporters.RdfExporterMultiRootNodesTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/com.google.refine.tests.rdf.exporters.RdfExporterMultiRootNodesTest.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/com.google.refine.tests.rdf.exporters.RdfExporterMultiRootNodesTest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/gridworks-rdf-exporter/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/testng-results.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test-output/testng.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/GRefineServiceManagerTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/endpoints/LarqSparqlEndpointTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/endpoints/PlainSparqlEndpointTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/executors/LarqSparqlQueryExecutorTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/executors/PlainSparqlQueryExecutorTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/factories/BigOwlImSparqlQueryFactoryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/factories/LarqSparqlQueryFactoryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/factories/PlainSparqlQueryFactoryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/factories/PreviewResourceCannedQueryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/factories/VirtuosoSparqlQueryFactoryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/factories/files/preview_properties.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/factories/files/sample.rdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/files/derians.rdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/files/factbook-countries.rdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/files/films.ttl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/files/foaf.rdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/files/sample.ttl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/org/deri/reconcile/sindice/SindiceServiceTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/rdf/vocab/AddPrefixCommandTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/rdf/vocab/AddPrefixTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/test/rdf/vocab/ImportPrefixTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/tests/ProjectFake.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/tests/rdf/RdfSchemaSerializationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/tests/rdf/RdfSchemaTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/tests/rdf/exporters/.svn/all-wcprops" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/tests/rdf/exporters/.svn/entries" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/tests/rdf/exporters/.svn/text-base/RdfExporterFacultyDataTest.java.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/tests/rdf/exporters/.svn/text-base/RdfExporterTest.java.svn-base" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/tests/rdf/exporters/RdfExporterFacultyDataTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/tests/rdf/exporters/RdfExporterMultiRootNodesTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/tests/rdf/exporters/RdfExporterPaymentDataTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/com/google/refine/tests/rdf/exporters/RdfExporterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/non-unit-testing.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/rdfschema-payment.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/rdfschema-payment.rdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/reconcile-test-suite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/resources/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/resources/rdfschema1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/resources/rdfschema2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/resources/test1.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/resources/test2.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/test/testng.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/tmp_VocabularySearchRelatedCommandsTest/luceneIndex/_0.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/tmp_VocabularySearchRelatedCommandsTest/luceneIndex/segments.gen" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/tmp_VocabularySearchRelatedCommandsTest/luceneIndex/segments_2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/downloads/example/GDP-in-2009.google-refine.tar.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/downloads/example/GDP-in-2009.rdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/downloads/example/GDP-in-2009.ttl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/downloads/example/GDPS.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/deri_logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/example/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/example/details.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/example/gdps.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/example/node_config.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/example/preview_uri.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/example/reconciliation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/example/schema.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/node_config_example.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/preview_uri_example.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/rdf_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/skeleton_example.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/imgs/skeleton_example_annotated.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/web page/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/docs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/dump-recon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/extResources.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/faq.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/home-intro.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/home-text.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/installation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/publications.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/rdf-export-docs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/rdf-export.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/reconciliation-docs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/requirements.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/search-recon-doc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/showcases.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/sindice-docs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/sindice-recon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/sparql-recon-doc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/sparql-recon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/support-dev.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/content/team.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/dump/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/dump/screenshots/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/dump/screenshots/add-service.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/dump/screenshots/details.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/dump/screenshots/preview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/dump/screenshots/reconciliation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/dump/screenshots/results.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/dump/screenshots/universities.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/export/screenshots/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/export/screenshots/earners.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/export/screenshots/export.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/export/screenshots/node.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/export/screenshots/operation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/export/screenshots/preview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/export/screenshots/schema.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/images/preview-fb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/images/reconcile-fb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/installation/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/installation/verify.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/installation/workspace.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sindice/derians.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sindice/screenshots/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sindice/screenshots/add-service-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sindice/screenshots/add-service.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sindice/screenshots/datasets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sindice/screenshots/derians.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sindice/screenshots/discover_datasets.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sindice/screenshots/reconciliation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sindice/screenshots/results.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sparql/GDPS.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sparql/screenshots/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sparql/screenshots/add-service.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sparql/screenshots/autocomplete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sparql/screenshots/details.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sparql/screenshots/gdps.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sparql/screenshots/popup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sparql/screenshots/reconciliation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/files/sparql/screenshots/results.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/grefine-stuff.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/button-dark-whitebg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/button-dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/icon_attention.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/lidrc-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/nuig-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/number1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/number2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/number3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/number4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/number5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/number6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/screenshots/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/screenshots/schema.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/screenshots/schema3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/sfi-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/skeleton_example_annotated.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/tabs-dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/tabs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/images/uri_expression.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/extensions/grefine-rdf-extension/website/style.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extensions/build.xml" afterPath="$PROJECT_DIR$/extensions/build.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extensions/rdf-extension/grefine-rdf-extension.iml" afterPath="$PROJECT_DIR$/extensions/rdf-extension/grefine-rdf-extension.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="OpenRefine.iws" />
@@ -468,41 +26,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Refine.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/src/com/google/refine/Refine.java">
+      <file leaf-file-name="RdfExporter.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/extensions/rdf-extension/src/org/deri/grefine/rdf/exporters/RdfExporter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="8190">
-              <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
+            <state vertical-scroll-proportion="1.0487013" vertical-offset="667" max-vertical-offset="3060">
+              <caret line="87" column="16" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/extensions/build.xml">
+      <file leaf-file-name="ExpressionBasedRowEvaluable.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/browsing/util/ExpressionBasedRowEvaluable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.116693676" vertical-offset="0" max-vertical-offset="630">
-              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
+              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grefine-server.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/grefine-server.iml">
+      <file leaf-file-name="ResourceNode.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/extensions/rdf-extension/src/org/deri/grefine/rdf/ResourceNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1255" max-vertical-offset="1872">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OpenRefine.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/OpenRefine.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5454" max-vertical-offset="14850">
-              <caret line="307" column="48" selection-start-line="307" selection-start-column="48" selection-end-line="307" selection-end-column="48" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1266" max-vertical-offset="2016">
+              <caret line="114" column="24" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -525,6 +73,7 @@
         <option value="$PROJECT_DIR$/extensions/freebase/src/com/google/refine/freebase/util/FreebaseUtils.java" />
         <option value="$PROJECT_DIR$/server/src/com/google/refine/Refine.java" />
         <option value="$PROJECT_DIR$/extensions/build.xml" />
+        <option value="$PROJECT_DIR$/extensions/rdf-extension/grefine-rdf-extension.iml" />
       </list>
     </option>
   </component>
@@ -532,10 +81,10 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1431" />
-    <option name="y" value="24" />
-    <option name="width" value="1855" />
-    <option name="height" value="1056" />
+    <option name="x" value="65" />
+    <option name="y" value="465" />
+    <option name="width" value="1301" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -566,7 +115,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -609,59 +157,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenRefine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenRefine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="google" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenRefine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="OpenRefine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="google" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="refine" />
+              <option name="myItemId" value="extensions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -678,9 +174,14 @@
               <option name="myItemId" value="extensions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rdf-extension" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -694,11 +195,11 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/extensions/grefine-rdf-extension/module/MOD-INF/lib/tika-parsers-1.4.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/extensions/rdf-extension/module/MOD-INF/lib/solr-solrj-4.3.1.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="controller.js&#9;FILE&#9;file:///home/fserena/workspaces/op/OpenRefine/extensions/freebase/module/MOD-INF/controller.js" />
+    <property name="SearchEverywhereHistoryKey" value="Express&#9;PSI&#9;JAVA://com.google.refine.browsing.util.ExpressionBasedRowEvaluable&#10;Export&#9;PSI&#9;JAVA://com.google.refine.commands.project.ExportRowsCommand&#10;Reconcile&#9;PSI&#9;JAVA://com.google.refine.commands.recon.ReconcileCommand&#10;Import&#9;FILE&#9;file:///home/fserena/workspaces/op/OpenRefine/main/src/com/google/refine/commands/importing/CreateImportingJobCommand.java&#10;retrieval&#9;PSI&#9;JAVA://com.google.refine.importing.ImportingJob#getRetrievalRecord&#10;Job&#9;FILE&#9;file:///home/fserena/workspaces/op/OpenRefine/main/src/com/google/refine/commands/importing/CreateImportingJobCommand.java&#10;importing-controller&#9;FILE&#9;file:///home/fserena/workspaces/op/OpenRefine/extensions/gdata/module/scripts/index/importing-controller.js&#10;controller.js&#9;FILE&#9;file:///home/fserena/workspaces/op/OpenRefine/extensions/freebase/module/MOD-INF/controller.js" />
     <property name="FullScreen" value="false" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
@@ -973,44 +474,47 @@
       <workItem from="1413378020469" duration="488000" />
       <workItem from="1413378532050" duration="165000" />
       <workItem from="1413378724261" duration="447000" />
-      <workItem from="1413379182602" duration="825000" />
+      <workItem from="1413379182602" duration="13129000" />
+      <workItem from="1413451248843" duration="1747000" />
+      <workItem from="1413812545729" duration="9109000" />
+      <workItem from="1413975775666" duration="2887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6067000" />
+    <option name="totallyTimeSpent" value="32114000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1431" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="65" y="465" width="1301" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917964" sideWeight="0.4997239" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.48071218" sideWeight="0.4997239" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24958587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917964" sideWeight="0.4997239" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997923" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.346856" sideWeight="0.51392204" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32917964" sideWeight="0.5002761" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5913978" sideWeight="0.48528242" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917964" sideWeight="0.4997239" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24958587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32965213" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32917964" sideWeight="0.4997239" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34742504" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32718894" sideWeight="0.4997239" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917964" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1037,8 +541,44 @@
           <url>file://$PROJECT_DIR$/extensions/freebase/module/MOD-INF/controller.js</url>
           <line>34</line>
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/main/webapp/WEB-INF/lib-src/commons-fileupload-1.2.1-sources.jar!/org/apache/commons/fileupload/MultipartStream.java</url>
+          <line>982</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/main/src/com/google/refine/commands/recon/GuessTypesOfColumnCommand.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/main/src/com/google/refine/commands/recon/GuessTypesOfColumnCommand.java</url>
+          <line>166</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/main/src/com/google/refine/commands/recon/GuessTypesOfColumnCommand.java</url>
+          <line>192</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/extensions/rdf-extension/src/org/deri/grefine/reconcile/sindice/SindiceService.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/main/src/com/google/refine/commands/recon/ReconcileCommand.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="44" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1089,117 +629,6 @@
     </buildFile>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/extensions/rdf-extension/src/org/deri/grefine/rdf/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extensions/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="594">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/openrefine.l4j.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
-          <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/pmd.rules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="666">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2430" max-vertical-offset="10386">
-          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extensions/rdf-extension/src/org/deri/grefine/rdf/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extensions/freebase/src/com/google/refine/freebase/model/changes/DataExtensionChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8550">
-          <caret line="421" column="59" selection-start-line="421" selection-start-column="59" selection-end-line="421" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/model/ReconCandidate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="2970">
-          <caret line="90" column="48" selection-start-line="90" selection-start-column="48" selection-end-line="90" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extensions/gdata/src/com/google/refine/extension/gdata/FusionTableSerializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="2934">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/extensions/pc-axis/src/com/google/refine/pcaxis/PCAxisImporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="1170">
-          <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/importers/OdsImporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="101" max-vertical-offset="4410">
-          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/expr/functions/strings/Unescape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="954">
-          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/expr/functions/strings/Trim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-          <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/importers/JsonImporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3593" max-vertical-offset="5562">
-          <caret line="280" column="22" selection-start-line="280" selection-start-column="22" selection-end-line="280" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main/tests/server/src/com/google/refine/tests/importers/XmlImportUtilitiesTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3885" max-vertical-offset="7272">
-          <caret line="285" column="15" selection-start-line="285" selection-start-column="15" selection-end-line="285" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/importers/XmlImporter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.6648822" vertical-offset="2765" max-vertical-offset="4932">
@@ -1275,7 +704,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1283,7 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
           <caret line="0" column="25" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1291,7 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="666">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1307,30 +733,274 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="8190">
           <caret line="78" column="48" selection-start-line="78" selection-start-column="48" selection-end-line="78" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/grefine-server.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1872">
+        <state vertical-scroll-proportion="-2.0340357" vertical-offset="1255" max-vertical-offset="1872">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/OpenRefine.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5454" max-vertical-offset="14850">
+        <state vertical-scroll-proportion="0.116693676" vertical-offset="5454" max-vertical-offset="14850">
           <caret line="307" column="48" selection-start-line="307" selection-start-column="48" selection-end-line="307" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/extensions/build.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.116693676" vertical-offset="0" max-vertical-offset="630">
-          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.6709887" vertical-offset="0" max-vertical-offset="630">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/gdata/module/scripts/index/importing-controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1188" max-vertical-offset="7938">
+          <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/util/ParsingUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="2556">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/server/lib-src/jetty-6.1.22-sources.jar!/org/mortbay/jetty/servlet/ServletHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="7781" max-vertical-offset="10512">
+          <caret line="511" column="0" selection-start-line="511" selection-start-column="0" selection-end-line="511" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/importing/ImportingManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2507" max-vertical-offset="4680">
+          <caret line="210" column="0" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/HttpResponder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24" vertical-offset="0" max-vertical-offset="525">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/commands/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="203" max-vertical-offset="5814">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/RefineServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1897" max-vertical-offset="5670">
+          <caret line="169" column="0" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/importing/ImportingJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2527" max-vertical-offset="3006">
+          <caret line="197" column="0" selection-start-line="197" selection-start-column="0" selection-end-line="197" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/commands/importing/ImportingControllerCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="43" max-vertical-offset="1008">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/commands/importing/GetImportingJobStatusCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5379679" vertical-offset="577" max-vertical-offset="1512">
+          <caret line="60" column="13" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/importing/DefaultImportingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1033" max-vertical-offset="4914">
+          <caret line="124" column="33" selection-start-line="124" selection-start-column="33" selection-end-line="124" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/main/webapp/WEB-INF/lib-src/commons-fileupload-1.2.1-sources.jar!/org/apache/commons/fileupload/servlet/ServletRequestContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="403" max-vertical-offset="1602">
+          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/main/webapp/WEB-INF/lib-src/commons-fileupload-1.2.1-sources.jar!/org/apache/commons/fileupload/servlet/ServletFileUpload.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1555" max-vertical-offset="2322">
+          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/commands/importing/CreateImportingJobCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
+          <caret line="52" column="44" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/main/webapp/WEB-INF/lib-src/commons-fileupload-1.2.1-sources.jar!/org/apache/commons/fileupload/util/Streams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1051" max-vertical-offset="2772">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/main/webapp/WEB-INF/lib-src/commons-fileupload-1.2.1-sources.jar!/org/apache/commons/fileupload/MultipartStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10537" max-vertical-offset="18522">
+          <caret line="638" column="0" selection-start-line="638" selection-start-column="0" selection-end-line="638" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/importing/ImportingUtilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2131" max-vertical-offset="17082">
+          <caret line="219" column="0" selection-start-line="219" selection-start-column="0" selection-end-line="219" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/main/webapp/WEB-INF/lib-src/commons-fileupload-1.2.1-sources.jar!/org/apache/commons/fileupload/FileUploadBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24278075" vertical-offset="5191" max-vertical-offset="22032">
+          <caret line="349" column="41" selection-start-line="349" selection-start-column="41" selection-end-line="349" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/rdf-extension/src/org/deri/grefine/rdf/vocab/RDFNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="721" max-vertical-offset="1764">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/rdf-extension/grefine-rdf-extension.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43024772" vertical-offset="6276" max-vertical-offset="13320">
+          <caret line="367" column="19" selection-start-line="367" selection-start-column="19" selection-end-line="367" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/rdf-extension/src/org/deri/grefine/reconcile/sindice/SindiceBroker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25596818" vertical-offset="581" max-vertical-offset="2304">
+          <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/rdf-extension/src/org/deri/grefine/reconcile/sindice/SindiceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30086955" vertical-offset="583" max-vertical-offset="2862">
+          <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
+          <folding>
+            <element signature="e#3440#3465#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/main/webapp/WEB-INF/lib/json-20100208.jar!/org/json/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36514524" vertical-offset="758" max-vertical-offset="2700">
+          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/rdf-extension/src/org/deri/grefine/rdf/ResourceNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1266" max-vertical-offset="2016">
+          <caret line="114" column="24" selection-start-line="114" selection-start-column="24" selection-end-line="114" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/browsing/facets/RangeFacet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30377668" vertical-offset="3631" max-vertical-offset="4500">
+          <caret line="268" column="36" selection-start-line="268" selection-start-column="36" selection-end-line="268" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/browsing/util/ExpressionBasedRowEvaluable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/commands/project/ExportRowsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61904764" vertical-offset="271" max-vertical-offset="1404">
+          <caret line="86" column="32" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/rdf-extension/src/org/deri/grefine/rdf/vocab/Vocabulary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="313" max-vertical-offset="936">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/rdf-extension/src/org/deri/grefine/rdf/RdfSchema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1658" max-vertical-offset="4464">
+          <caret line="135" column="0" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/commands/recon/GuessTypesOfColumnCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2890995" vertical-offset="2283" max-vertical-offset="3996">
+          <caret line="197" column="62" selection-start-line="197" selection-start-column="62" selection-end-line="197" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/src/com/google/refine/commands/recon/ReconcileCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19905214" vertical-offset="0" max-vertical-offset="633">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/rdf-extension/src/org/deri/grefine/rdf/commands/SaveRdfSchemaCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57345974" vertical-offset="69" max-vertical-offset="1026">
+          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extensions/rdf-extension/src/org/deri/grefine/rdf/exporters/RdfExporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0487013" vertical-offset="667" max-vertical-offset="3060">
+          <caret line="87" column="16" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
           <folding />
         </state>
       </provider>
